@@ -1,4 +1,4 @@
-# 📘 Artificial Intelligence Lab – CSP Problems
+#  Artificial Intelligence Lab – CSP Problems
 
 ## Name: Rishi  
 ## Subject: AI Lab  
